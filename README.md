@@ -6,7 +6,7 @@
 	|Project_dir
 	|
 	|         |----nginx.conf      			配置文件（PHP版本，适合WordPress、Typecho等）
-	|--Nginx--|----nginx_pelican.conf      	配置文件（静态HTML版本，适合Pelican、HEXO等）
+	|--Nginx--|----nginx_static.conf      	配置文件（静态HTML版本，适合Pelican、HEXO等）
 	|         |----nginx	       			服务控制脚本
 	|
 	|         |----php.ini		   			配置文件
